@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasedusi&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Web Developer (JavaScript, Typescript, ReactJs, NextJs)
+- 🔥 Front-end developer (JavaScript, Typescript, ReactJs, NextJs)
 
 - 🔭 I’m currently working at [PRTE TECNOLOGIAS E SOLUÇÕES](https://github.com/somosprte)
 
