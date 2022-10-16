@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working at [PRTE TECNOLOGIAS E SOLUÇÕES](https://github.com/somosprte)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Typescript, ReactJs, NextJs, NodeJs**
+- 👨‍💻 **HTML, CSS, JavaScript, Typescript, ReactJs, NextJs, NodeJs**
 
 - 👨‍💻 Meu [Linkedin](https://www.linkedin.com/in/lucas-eduardo-pereira-andrade-8224751b2/)
 
