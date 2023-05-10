@@ -6,7 +6,7 @@
 
 - 🔥 Front-end developer (JavaScript, Typescript, ReactJs, NextJs)
 
-- 🔭 I’m currently working at [PRTE TECNOLOGIAS E SOLUÇÕES](https://github.com/somosprte)
+- 🔭 I’m currently working at [PETIZE](https://www.linkedin.com/company/petize)
 
 - 👨‍💻 **HTML, CSS, JavaScript, Typescript, ReactJs, NextJs, NodeJs**
 
