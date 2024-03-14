@@ -6,8 +6,6 @@
 
 - 🔥 Front-end developer (JavaScript, Typescript, ReactJs, NextJs)
 
-- 🔭 I’m currently working at [PETIZE](https://www.linkedin.com/company/petize)
-
 - 👨‍💻 **HTML, CSS, JavaScript, Typescript, ReactJs, NextJs, NodeJs**
 
 - 👨‍💻 Meu [Linkedin](https://www.linkedin.com/in/lucas-eduardo-pereira-andrade-8224751b2/)
