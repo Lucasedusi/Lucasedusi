@@ -44,10 +44,10 @@
 ## Contact
 
 <p align="left" style="background:yellow">
-<a href="https://www.linkedin.com/in/lucas-eduardo-pereira-andrade-8224751b2/" target="_blank">
+<a href="www.linkedin.com/in/lucas-eduardo-8224751b2/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-lucasedusi-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://www.instagram.com/lucasedusi/" target="_blank">
+<a href="https://www.instagram.com/lucasedudev/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-lucasedusi-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
